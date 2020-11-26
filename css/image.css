@@ -7,8 +7,6 @@ h1{
 img{
     height: 250px;
     width: 370px;
-    -webkit-mask-image: linear-gradient(to bottom, transparent 50%, black 75%);
-    mask-image: linear-gradient(to bottom, transparent 50%, black 75%);
 }
 table{
     margin: 0 auto;
