@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right, rgb(2, 4, 29), rgb(1, 1, 94));
+}
+a{
+    display: block;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+    inline-size: 5px;
+    margin: auto 55% auto auto;
+}
+h1{
+    font-size: 3em;
+    text-decoration: underline;
+    color: white;
+}
